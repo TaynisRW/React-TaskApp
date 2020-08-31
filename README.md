@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/TaynisRW/React-TaskApp/b0976bc23424971ff32278c4826721cde47a03df/src/logo.svg" alt="Logo" width="150" height="150" />
 </p>
-h1 align="center">REACT TASK APP</h1>
+<h1 align="center">REACT TASK APP</h1>
 
 # [DEMO](https://basic-react-taskapp.netlify.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
